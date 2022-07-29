@@ -102,5 +102,5 @@ if first in cod:
 else:
     print("system error!")
             
- #Copyright-Junior_Carvalho06
+ #Copyright-@Junior4Carvalho
 
