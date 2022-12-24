@@ -9,5 +9,5 @@ Storage Simulator é um programinha básico de Python que simula a gestão de ar
 Infelizmente ainda não fiz uma GUI pra ele
 mas Jájá adiciono a GUI e a "user view"
 
-## Crédito ⬇️
+## Créditos ⬇️
 - <a href="https://github.com/Junior4Carvalho">Junior Carvalho </a> 🚀
